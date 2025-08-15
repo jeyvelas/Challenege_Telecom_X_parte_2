@@ -112,8 +112,8 @@ Clona el repositorio:
 
 ```bash
 
-git clone https://github.com/angelesGladin/TelecomX-Churn.git
-cd TelecomX-Churn
+git clone https://github.com/jeyvelas/Challenege_Telecom_X_parte_2.git
+cd 
 ```
 Crea un entorno virtual (opcional pero recomendado):
 
