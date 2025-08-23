@@ -130,13 +130,7 @@ Instala las dependencias:
 
 pip install -r requirements.txt
 ```
-Abre los notebooks en Jupyter o VSCode:
 
-```bash
-
-jupyter notebook
-Los notebooks están en la carpeta notebooks/ y siguen el orden lógico desde exploración hasta evaluación de modelos.
-```
 (Opcional) Ejecuta todo el flujo automáticamente:
 
 Si creas un script final (por ejemplo, pipeline.py), puedes correrlo con:
