@@ -155,8 +155,4 @@ Interpretabilidad usando shap.summary_plot y coeficientes logísticos
 
 conjunto de datos se encuentran en este repositorio datos_tratados.cvs
 
-informe_cancelacion_telecom_x: Informe técnico detallado del proyecto
-
-notebooks/: Todos los pasos de análisis, modelado y evaluación
-
 ---
